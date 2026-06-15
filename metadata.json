@@ -1,0 +1,6 @@
+{
+  "name": "Bloch Sphere Simulator",
+  "description": "An interactive 3D Bloch Sphere quantum state and gate operations simulator built with Node.js/TypeScript and Three.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
